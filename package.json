@@ -1,0 +1,19 @@
+{
+  "name": "vscode-loc",
+  "version": "1.0.0",
+  "description": "[![CI](https://github.com/microsoft/vscode-loc/actions/workflows/ci.yml/badge.svg)](https://github.com/microsoft/vscode-loc/actions/workflows/ci.yml)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyCupOfTeaOo/vscode-loc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyCupOfTeaOo/vscode-loc/issues"
+  },
+  "homepage": "https://github.com/MyCupOfTeaOo/vscode-loc#readme"
+}
